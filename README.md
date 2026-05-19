@@ -4,7 +4,7 @@ Classic Space Invaders-style game built with vanilla HTML5 Canvas and JavaScript
 
 ## 🎮 Play
 
-**Live:** [http://ai-game-galaxy-855647970705.s3-website-us-west-2.amazonaws.com](http://ai-game-galaxy-855647970705.s3-website-us-west-2.amazonaws.com)
+**Live:** [http://ai-game-galaxy-855647970705.s3-website-us-west-2.amazonaws.com](https://d2mshmgnyh8rrg.cloudfront.net/)
 
 ## Features
 
